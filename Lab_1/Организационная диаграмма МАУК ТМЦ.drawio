@@ -1,0 +1,157 @@
+<mxfile host="Electron" modified="2024-04-09T14:35:58.100Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.1.0 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="4Zh_y-jHueVPCbPVCkL0" version="24.1.0" type="device">
+  <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
+    <mxGraphModel dx="1674" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dNxyNK7c78bLwvsdeMH5-11" value="Организационная структура МАУК ТМЦ" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;strokeWidth=8;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="80" width="760" height="930" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;i style=&quot;color: gray&quot;&gt;%Должность%&lt;/i&gt;" name="" location="Office 1" email="me@example.com" placeholders="1" link="https://www.draw.io" Должность="Директор" id="dNxyNK7c78bLwvsdeMH5-12">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=1;glass=0;treeMoving=1;treeFolding=1;strokeWidth=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
+            <mxGeometry x="284" y="50" width="180" height="70" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="dNxyNK7c78bLwvsdeMH5-13" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" parent="dNxyNK7c78bLwvsdeMH5-11" source="dNxyNK7c78bLwvsdeMH5-12" target="dNxyNK7c78bLwvsdeMH5-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;i style=&quot;color: gray&quot;&gt;%Должность%&lt;/i&gt;" name="" location="Office 1" email="me@example.com" placeholders="1" link="https://www.draw.io" Должность="Заместитель директора по общим вопросам" id="dNxyNK7c78bLwvsdeMH5-14">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=1;glass=0;treeMoving=1;treeFolding=1;strokeWidth=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
+            <mxGeometry x="40" y="160" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="dNxyNK7c78bLwvsdeMH5-15" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" parent="dNxyNK7c78bLwvsdeMH5-11" source="dNxyNK7c78bLwvsdeMH5-12" target="dNxyNK7c78bLwvsdeMH5-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;i style=&quot;color: gray&quot;&gt;%Должность%&lt;/i&gt;" name="" location="Office 1" email="me@example.com" placeholders="1" link="https://www.draw.io" Должность="Главный бухгалтер" id="dNxyNK7c78bLwvsdeMH5-16">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=1;glass=0;treeMoving=1;treeFolding=1;strokeWidth=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
+            <mxGeometry x="284" y="160" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="dNxyNK7c78bLwvsdeMH5-17" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" parent="dNxyNK7c78bLwvsdeMH5-11" source="dNxyNK7c78bLwvsdeMH5-12" target="dNxyNK7c78bLwvsdeMH5-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;i style=&quot;color: gray&quot;&gt;%Должность%&lt;/i&gt;" name="" location="Office 1" email="me@example.com" placeholders="1" link="https://www.draw.io" Должность="Заместитель директора по методической части" id="dNxyNK7c78bLwvsdeMH5-18">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=1;glass=0;treeMoving=1;treeFolding=1;strokeWidth=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
+            <mxGeometry x="530" y="160" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="FNnTwHKlNM84uuqx_Ctk-2" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" parent="dNxyNK7c78bLwvsdeMH5-11" source="dNxyNK7c78bLwvsdeMH5-14" target="FNnTwHKlNM84uuqx_Ctk-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="200" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;i style=&quot;color: gray&quot;&gt;%Должность%&lt;/i&gt;" name="" location="Office 1" email="me@example.com" placeholders="1" link="https://www.draw.io" Должность="Начальник хозяйственного отдела" id="FNnTwHKlNM84uuqx_Ctk-3">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=1;glass=0;treeMoving=1;treeFolding=1;strokeWidth=5;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
+            <mxGeometry x="40" y="280" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="FNnTwHKlNM84uuqx_Ctk-4" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" parent="dNxyNK7c78bLwvsdeMH5-11" source="dNxyNK7c78bLwvsdeMH5-18" target="FNnTwHKlNM84uuqx_Ctk-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="200" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;i style=&quot;color: gray&quot;&gt;%Должность%&lt;/i&gt;" name="" location="Office 1" email="me@example.com" placeholders="1" link="https://www.draw.io" Должность="Начальник творческого отдела" id="FNnTwHKlNM84uuqx_Ctk-5">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=1;glass=0;treeMoving=1;treeFolding=1;strokeWidth=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
+            <mxGeometry x="530" y="280" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="FNnTwHKlNM84uuqx_Ctk-6" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="dNxyNK7c78bLwvsdeMH5-11" source="FNnTwHKlNM84uuqx_Ctk-3" target="FNnTwHKlNM84uuqx_Ctk-7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="340" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="130" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;i style=&quot;color: gray&quot;&gt;%Должность%&lt;/i&gt;" name="" location="Office 1" email="me@example.com" placeholders="1" link="https://www.draw.io" Должность="Главный специалист" id="FNnTwHKlNM84uuqx_Ctk-7">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-10-3-128.png;whiteSpace=wrap;html=1;rounded=1;glass=0;treeMoving=1;treeFolding=1;strokeWidth=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
+            <mxGeometry x="160" y="400" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="FNnTwHKlNM84uuqx_Ctk-8" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="dNxyNK7c78bLwvsdeMH5-11" source="FNnTwHKlNM84uuqx_Ctk-3" target="FNnTwHKlNM84uuqx_Ctk-9" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="340" as="sourcePoint" />
+            <mxPoint x="140" y="580" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="130" y="550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;i style=&quot;color: gray&quot;&gt;%Должность%&lt;/i&gt;" name="" location="Office 1" email="me@example.com" placeholders="1" link="https://www.draw.io" Должность="Ведущий специалист" id="FNnTwHKlNM84uuqx_Ctk-9">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=1;glass=0;treeMoving=1;treeFolding=1;strokeWidth=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
+            <mxGeometry x="160" y="510" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="FNnTwHKlNM84uuqx_Ctk-10" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="dNxyNK7c78bLwvsdeMH5-11" source="FNnTwHKlNM84uuqx_Ctk-3" target="FNnTwHKlNM84uuqx_Ctk-11" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="340" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="130" y="650" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;i style=&quot;color: gray&quot;&gt;%Должность%&lt;/i&gt;" name="" location="Office 1" email="me@example.com" placeholders="1" link="https://www.draw.io" Должность="Специалист 2-ой категории" id="FNnTwHKlNM84uuqx_Ctk-11">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=1;glass=0;treeMoving=1;treeFolding=1;strokeWidth=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
+            <mxGeometry x="160" y="610" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="FNnTwHKlNM84uuqx_Ctk-12" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="dNxyNK7c78bLwvsdeMH5-11" source="FNnTwHKlNM84uuqx_Ctk-3" target="FNnTwHKlNM84uuqx_Ctk-13" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="340" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="130" y="750" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;i style=&quot;color: gray&quot;&gt;%Должность%&lt;/i&gt;" name="" location="Office 1" email="me@example.com" placeholders="1" link="https://www.draw.io" Должность="Уборщик территорий" id="FNnTwHKlNM84uuqx_Ctk-13">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=1;glass=0;treeMoving=1;treeFolding=1;strokeWidth=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
+            <mxGeometry x="160" y="710" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="FNnTwHKlNM84uuqx_Ctk-14" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="dNxyNK7c78bLwvsdeMH5-11" source="FNnTwHKlNM84uuqx_Ctk-3" target="FNnTwHKlNM84uuqx_Ctk-15" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="340" as="sourcePoint" />
+            <mxPoint x="90" y="880" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="130" y="850" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;i style=&quot;color: gray&quot;&gt;%Должность%&lt;/i&gt;" name="" location="Office 1" email="me@example.com" placeholders="1" link="https://www.draw.io" Должность="Уборщик служебных помещений" id="FNnTwHKlNM84uuqx_Ctk-15">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=1;glass=0;treeMoving=1;treeFolding=1;strokeWidth=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
+            <mxGeometry x="160" y="810" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="FNnTwHKlNM84uuqx_Ctk-16" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;entryX=1.011;entryY=0.6;entryDx=0;entryDy=0;entryPerimeter=0;" parent="dNxyNK7c78bLwvsdeMH5-11" source="FNnTwHKlNM84uuqx_Ctk-5" target="FNnTwHKlNM84uuqx_Ctk-17" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="980" y="340" as="sourcePoint" />
+            <mxPoint x="650" y="480" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="630" y="448" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;i style=&quot;color: gray&quot;&gt;%Должность%&lt;/i&gt;" name="" location="Office 1" email="me@example.com" placeholders="1" link="https://www.draw.io" Должность="Специалист 1-ой категории" id="FNnTwHKlNM84uuqx_Ctk-17">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-10-3-128.png;whiteSpace=wrap;html=1;rounded=1;glass=0;treeMoving=1;treeFolding=1;strokeWidth=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
+            <mxGeometry x="400" y="400" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="FNnTwHKlNM84uuqx_Ctk-18" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="dNxyNK7c78bLwvsdeMH5-11" source="FNnTwHKlNM84uuqx_Ctk-5" target="FNnTwHKlNM84uuqx_Ctk-19" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="980" y="340" as="sourcePoint" />
+            <mxPoint x="620" y="590" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="630" y="550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;i style=&quot;color: gray&quot;&gt;%Должность%&lt;/i&gt;" name="" location="Office 1" email="me@example.com" placeholders="1" link="https://www.draw.io" Должность="Специалист" id="FNnTwHKlNM84uuqx_Ctk-19">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=1;glass=0;treeMoving=1;treeFolding=1;strokeWidth=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
+            <mxGeometry x="400" y="510" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
